@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/IMG_20200903_033332.png?t=1599104920" />
+    <userInterface showZoomButtons="false" showToolTips="false" showHotspotsButton="false" showFullScreenButton="false" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="false" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" />
+    <control dragSpeed="0.13" doubleClickZooms="false" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="false" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="false" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="636" highresHeight="466">
+    <image src="images/IMG_20200903_033531.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033531.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033534.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033534.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033536.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033536.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033538.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033538.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033540.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033540.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033542.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033542.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033544.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033544.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033546.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033546.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033548.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033548.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033551.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033551.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033553.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033553.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033555.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033555.png?t=1599104920" />
+    </image>
+    <image src="images/IMG_20200903_033557.png?t=1599104920">
+      <highres src="images/highres/IMG_20200903_033557.png?t=1599104920" />
+    </image>
+  </images>
+</config>

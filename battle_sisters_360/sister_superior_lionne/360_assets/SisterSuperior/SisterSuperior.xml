@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/IMG_20200903_025235.png" />
+    <userInterface showZoomButtons="false" showToolTips="false" showHotspotsButton="false" showFullScreenButton="false" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="false" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" />
+    <control dragSpeed="0.13" doubleClickZooms="false" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="false" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" />
+  </settings>
+  <hotspots />
+  <images rows="1">
+    <image src="images/IMG_20200903_025235.png" />
+    <image src="images/IMG_20200903_025242.png" />
+    <image src="images/IMG_20200903_025246.png" />
+    <image src="images/IMG_20200903_025250.png" />
+    <image src="images/IMG_20200903_025253.png" />
+    <image src="images/IMG_20200903_025258.png" />
+    <image src="images/IMG_20200903_025302.png" />
+    <image src="images/IMG_20200903_025305.png" />
+    <image src="images/IMG_20200903_025309.png" />
+    <image src="images/IMG_20200903_025312.png" />
+    <image src="images/IMG_20200903_025316.png" />
+    <image src="images/IMG_20200903_025320.png" />
+    <image src="images/IMG_20200903_025323.png" />
+    <image src="images/IMG_20200903_025327.png" />
+  </images>
+</config>
